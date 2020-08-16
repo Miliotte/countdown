@@ -22,7 +22,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/miliotte/clock
+    $ git clone https://github.com/miliotte/countdown
 
 ```
 
