@@ -6,7 +6,7 @@
 
 ## 🔖 Sobre
 
-O projeto **Christmas Countdown ** é um cronograma feito com a data de evento do natal em JavaScript.
+O projeto **Christmas Countdown** é um cronograma feito com a data de evento do natal em JavaScript.
 
 
 ## 🚀 Tecnologias utilizadas
